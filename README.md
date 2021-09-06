@@ -7,6 +7,13 @@ Please have a look at my second github account used during my master degree: eds
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apimewband12=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="mewband12's GitHub Stats" src="https://github-readme-stats-mewband12.vercel.app/api?username=mewband12&show_icons=true&hide_border=true" />
+
+</details>
+
 <!--
 **mewband12/mewband12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
