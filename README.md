@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm mewband12</h1>
 <h3 align="center">A passionate frontend developer from Thailand</h3>
 
-- 🔭 I’m currently working on <a href="https://www.barcsnap.com/ target="_blank">barcSnap</a>
+- 🔭 I’m currently working on <a href="https://www.barcsnap.com/" target="_blank">barcSnap</a>
 
 - 🌱 I’m currently learning **React in rails**
 
