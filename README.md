@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Kandanai Leenutaphong
 - 🔭 I’m currently working on a Master degree in Environmental Data Science and Machine Learning and an education startup.
 Please have a look at my second github account used during my master degree: edsml-e9f182c7
-- 🌱 I’m currently learning FullStack development, doing many projects
+- 🌱 I’m currently learning FullStack development, and a ton of coding
 - 👯 I’m looking to collaborate on any tech and educational related jobs
 - 📫 How to reach me: https://www.linkedin.com/feed/
 
