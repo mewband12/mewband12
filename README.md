@@ -10,8 +10,8 @@ Please have a look at my second github account used during my master degree: eds
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-<!--   <img align="left" alt="mewband12's GitHub Stats" src="https://github-readme-stats-mewband12.vercel.app/api?username=mewband12&show_icons=true&hide_border=true" /> -->
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mewband12&theme=radical)
+  <img align="left" alt="mewband12's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mewband12&show_icons=true&hide_border=true" />
+<!--   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mewband12&theme=radical) -->
 </details>
 
 <!--
