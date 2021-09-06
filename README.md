@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on <a href="https://www.barcsnap.com/" target="_blank">barcSnap</a>
 
-- 🌱 I’m currently learning **React in rails**
+- 🌱 I’m currently learning **React in Rails**
 
 - 👯 I’m looking to collaborate on [RevEd](todo.com)
 
