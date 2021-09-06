@@ -5,7 +5,7 @@ Please have a look at my second github account used during my master degree: eds
 - 👯 I’m looking to collaborate on any tech and educational related jobs
 - 📫 How to reach me: https://www.linkedin.com/feed/
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api username=mewband12&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mewband12&theme=radical)
 
 <details>
   <summary>:zap: GitHub Stats</summary>
