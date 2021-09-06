@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Kandanai</h1>
-<h3 align="center">A developer from Thailand</h3>
+<h1 align="left">Hi 👋, I'm Kandanai</h1>
+<h3 align="left">A developer from Thailand</h3>
 
 - 🔭 I’m currently working on <a href="https://www.barcsnap.com/" target="_blank">barcSnap</a> and <a href="https://github.com/mewband12/RevEd" target="_blank">RevEd</a>
 
