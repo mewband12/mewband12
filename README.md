@@ -26,6 +26,10 @@
   <img align="left" alt="mewband12's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mewband12&theme=radical&show_icons=true&hide_border=true" />
 <!--   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mewband12&theme=radical) -->
   
+</details>
+
+<details>
+  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mewband12&langs_count=8)](https://github.com/mewband12/github-readme-stats)
 </details>
 
