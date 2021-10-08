@@ -29,7 +29,7 @@
 </details>
 
 <details>
-  
+  <summary>:zap: Most used Language </summary>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mewband12&langs_count=8)](https://github.com/mewband12/github-readme-stats)
 </details>
 
