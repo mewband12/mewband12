@@ -29,6 +29,7 @@
 
 <details>
   <summary>:zap: Most used Language </summary>
+  <img align="left" alt="mewband12's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mewband12&layout=compact" />
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mewband12&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 
