@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on <a href="https://www.barcsnap.com/" target="_blank">barcSnap</a> and <a href="https://github.com/mewband12/RevEd" target="_blank">RevEd</a>
 
-- 🌱 I’m currently learning **React in Rails** and **Machine Learning** with another github username @edsml-kl121
+- 🌱 I’m currently learning **React in Rails** and **Machine Learning** with another github username <a href="https://github.com/edsml-kl121" target="_blank">edsml-kl121</a>
 
 - 📫 Contact me! **mew.chayutaphong@gmail.com**
 
